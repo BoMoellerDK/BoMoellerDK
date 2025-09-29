@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Bo Møller. I'm the founder and owner of multiple companies.  
-I currently work on the subscription engine [Alunta.com](https://alunta.com) as well as the system for home owners associations (Strata corporations) [anyhoa.com](https://anyhoa.com).
+I currently work on the subscription engine [Alunta.com](https://alunta.com) as well as the system for home owners associations (Strata corporations) [anyhoa.com](https://anyhoa.com). I've also recently acquired a company that handles age verification for webshops. It's on [idguard.dk](https://idguard.dk).
 
 You can read more about me on [bandeja.org](https://bandeja.org).
 
