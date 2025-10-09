@@ -3,6 +3,8 @@
 I'm Bo Møller. I'm the founder and owner of multiple companies.  
 I currently work on the subscription engine [Alunta.com](https://alunta.com) as well as the system for home owners associations (Strata corporations) [anyhoa.com](https://anyhoa.com). I've also recently acquired a company that handles age verification for webshops. It's on [idguard.dk](https://idguard.dk).
 
+My most recent project is however [Octoreports.com](https://octoreports.com). This is a minimalist tracking/uptime reporting tool for marketing-staff, web developers and everyone else working with websites.
+
 You can read more about me on [bandeja.org](https://bandeja.org).
 
 
